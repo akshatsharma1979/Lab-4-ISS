@@ -1,0 +1,1 @@
+mongoexport --db sample_mflix --collection movies --out movies.json --jsonArray

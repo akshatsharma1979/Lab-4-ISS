@@ -1,0 +1,1 @@
+ db.movies.find({directors: "Christopher Nolan"}).limit(1)

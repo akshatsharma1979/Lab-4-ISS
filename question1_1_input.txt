@@ -1,0 +1,1 @@
+db.movies.insertOne({"title": "Movie by Akshat","year": 2025,"genres": ["thriller", "horror"],"runtime": 90,"director": "Akshat Sharma","actors": ["john", "samuel"]})

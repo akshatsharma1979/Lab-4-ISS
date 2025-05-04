@@ -1,0 +1,1 @@
+db.movies.updateOne({"imdb.rating": {$lt:7.5}},{$set:{"imdb.rating":8}})

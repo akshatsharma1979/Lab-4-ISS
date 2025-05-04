@@ -1,0 +1,28 @@
+[
+  { _id: 'Drama', count: 2573 },
+  { _id: 'Comedy', count: 891 },
+  { _id: 'Documentary', count: 875 },
+  { _id: 'Romance', count: 561 },
+  { _id: 'Crime', count: 473 },
+  { _id: 'Biography', count: 393 },
+  { _id: 'Adventure', count: 336 },
+  { _id: 'History', count: 328 },
+  { _id: 'Action', count: 321 },
+  { _id: 'Thriller', count: 313 },
+  { _id: 'Animation', count: 268 },
+  { _id: 'War', count: 263 },
+  { _id: 'Music', count: 216 },
+  { _id: 'Short', count: 210 },
+  { _id: 'Family', count: 202 },
+  { _id: 'Mystery', count: 183 },
+  { _id: 'Fantasy', count: 168 },
+  { _id: 'Sci-Fi', count: 117 },
+  { _id: 'Sport', count: 94 },
+  { _id: 'Musical', count: 87 }
+  { _id: 'Horror', count: 76 },
+  { _id: 'Western', count: 53 },
+  { _id: 'Film-Noir', count: 38 },
+  { _id: 'News', count: 16 },
+  { _id: 'horror', count: 1 },
+  { _id: 'thriller', count: 1 }
+]

@@ -1,0 +1,5 @@
+[
+  { _id: 'Martin Scorsese', movieCount: 20 },
+  { _id: 'William Wyler', movieCount: 17 },
+  { _id: 'Hayao Miyazaki', movieCount: 17 }
+]

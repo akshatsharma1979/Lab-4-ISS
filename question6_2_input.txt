@@ -1,0 +1,4 @@
+db.movies.aggregate([
+  { $match: { year: { $gt: 1920 } } },
+  { $group: { _id: null, avgRating: { $avg: "$imdb.rating" } } }
+])
